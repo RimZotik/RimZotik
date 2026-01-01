@@ -1,16 +1,22 @@
-### Hi there 👋
+# 👋 Hi, I'm RimZotik
 
-<!--
-**RimZotik/RimZotik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>
+    I invent and build services where none exist — or make them cleaner, smarter, and more elegant.
+  </b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github.com/RimZotik/RimZotik/blob/master/MySkills.png" alt="RimZotik skills" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 What I love doing
+
+- Creating **new services and tools from scratch**
+- Exploring niches where solutions don’t exist yet
+- Improving UX, architecture, and visual clarity
+- Mixing **backend, frontend, game dev, and tooling**
+
+🚀 I value ideas, structure, and perfection.
